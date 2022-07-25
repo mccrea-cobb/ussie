@@ -7,7 +7,7 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
-```{r setup}
+```{r setup, warning=FALSE, message=FALSE}
 library(ussie)
 library(dplyr)
 ```

@@ -10,7 +10,8 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
-URL: https://github.com/mccrea-cobb/ussie
+URL: https://github.com/mccrea-cobb/ussie,
+    https://mccrea-cobb.github.io/ussie/
 BugReports: https://github.com/mccrea-cobb/ussie/issues
 Imports: 
     dplyr,
